@@ -18,4 +18,4 @@ A simple eCommerce system with user and admin login, built using Java (Spring Bo
    - Create a MySQL database named `ecommerce_db`
    - Seed an admin user:
      ```sql
-     INSERT INTO users (name, email, password, role) VALUES ('Admin', 'admin@example.com', 'admin123', 'admin');
+     INSERT INTO users (name, email, password, role) VALUES ('Admin', 'admin@gmail.com', 'admin123', 'admin');
